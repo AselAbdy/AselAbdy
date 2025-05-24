@@ -11,7 +11,7 @@ ___
 ## Mini Projects
 
 ### Power BI
-**[Smart pet project analysis]
+**[Smart pet project analysis](https://github.com/AselAbdy/powerbi_mini_project/blob/main/Smart%20pet%20gadget%20analysis.pbix)**
 
 # Привет!
 Меня зовут Асель. Я младший дата аналитик. Я закончила курс аналитики данных и сейчас собираю портфолио проектов. Работаю с 
